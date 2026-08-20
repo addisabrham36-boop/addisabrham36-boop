@@ -18,8 +18,8 @@ Cybersecurity-focused developer working with Linux systems, network security, an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=addisabrham36-boop&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=addisabrham36-boop&layout=compact&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats-tawny-three-79.vercel.app/api?username=addisabrham36-boop&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-tawny-three-79.vercel.app/api/top-langs/?username=addisabrham36-boop&layout=compact&theme=dark&hide_border=true)
 
 ## Streak
 ![Streak](https://streak-stats.demolab.com?user=addisabrham36-boop&theme=dark)
