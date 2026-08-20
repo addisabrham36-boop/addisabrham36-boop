@@ -6,7 +6,8 @@ Cybersecurity-focused developer working with Linux systems, network security, an
 - 🔭 Currently working on: ANDS (Anomaly-based Network Detection System)
 - 🌱 Learning: Network security, penetration testing
 - 💬 Ask me about: Linux, cybersecurity, networking
-- 📫 Reach me: [add your email/LinkedIn here]
+- 🌐 Portfolio: https://abrham-addis-portfolio.netlify.app/
+- 📫 Reach me: addisabrham36@gmail.com
 
 ## Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -22,3 +23,7 @@ Cybersecurity-focused developer working with Linux systems, network security, an
 
 ## Streak
 ![Streak](https://streak-stats.demolab.com?user=addisabrham36-boop&theme=dark)
+
+## Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abrham-addis-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:addisabrham36@gmail.com)
