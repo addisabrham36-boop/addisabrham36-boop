@@ -21,9 +21,6 @@ Cybersecurity-focused developer working with Linux systems, network security, an
 ![Stats](https://github-readme-stats-tawny-three-79.vercel.app/api?username=addisabrham36-boop&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats-tawny-three-79.vercel.app/api/top-langs/?username=addisabrham36-boop&layout=compact&theme=dark&hide_border=true)
 
-## Streak
-![Streak](https://streak-stats.demolab.com?user=addisabrham36-boop&theme=dark)
-
 ## Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://abrham-addis-portfolio.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:addisabrham36@gmail.com)
