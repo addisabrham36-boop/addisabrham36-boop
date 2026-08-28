@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/matrix_banner.gif" width="100%" height="220" style="object-fit: cover; max-height: 220px; border-radius: 6px;" alt="Matrix Cyber Rain" />
+<img src="./assets/cyber_banner.svg" width="100%" alt="Abrham Cyber Security Banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=700&lines=%3E_Abrham+%7C+Cybersecurity+Student+%26+Self-Learner+%F0%9F%94%90;%3E_Offensive+Pentesting+%26+Defensive+Operations;%3E_Arch+Linux+Power+User+%26+C%2B%2B%2FPython+Automation;%3E_Active+CTF+Competitor+%F0%9F%9A%A9;%3E_Developing+ANDS+%E2%80%94+Anomaly-based+Network+IDS+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=720&lines=%3E_Abrham+%7C+Cybersecurity+Student+%26+Self-Learner+%F0%9F%94%90;%3E_Offensive+Pentesting+%26+Defensive+Operations;%3E_Arch+Linux+Power+User+%26+C%2B%2B%2FPython+Automation;%3E_Active+CTF+Competitor+%F0%9F%9A%A9;%3E_Developing+ANDS+%E2%80%94+Anomaly-based+Network+IDS+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -131,5 +131,3 @@ class SecurityStudent:
 ![Profile Views](https://komarev.com/ghpvc/?username=addisabrham36-boop&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<img src="./assets/matrix.gif" width="100%" height="20" alt="divider" />
