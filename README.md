@@ -1,6 +1,6 @@
 # Hi, I'm ABRHAM 👋
 
-Cybersecurity-focused developer working with Linux systems, network security, and automation.
+Future cyber security Engineer|Bulding CLI tools, analyzing networks, and breaking labs .
 
 ## About
 - 🔭 Currently working on: ANDS (Anomaly-based Network Detection System)
