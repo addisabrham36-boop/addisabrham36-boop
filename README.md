@@ -1,34 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Addis%20Abrham&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20|%20Penetration%20Tester%20|%20Linux%20Hacker&descSize=18&descAlignY=58&descColor=a0a8b8" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:091428,100:001f3f&height=220&section=header&text=%E2%9A%A1%20ADDIS%20%7C%20SECURITY%20%26%20SYSTEMS&fontSize=42&fontColor=00d4ff&animation=twinkling&fontAlignY=45&desc=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20CS%20Student%20%E2%80%A2%20Linux%20Hacker%20%E2%80%A2%20Network%20Security%20Enthusiast&descSize=16&descAlignY=65&descColor=8be9fd" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Security+Researcher+%F0%9F%94%91;Network+Penetration+Tester+%F0%9F%8C%90;Linux+%26+Systems+Hacker+%F0%9F%90%A7;Builder+of+ANDS+%E2%80%94+Network+IDS+%F0%9F%9B%A1%EF%B8%8F;Always+learning%2C+always+breaking+things+%F0%9F%92%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=CS+Student+%F0%9F%93%9A+%7C+Learning+every+single+day;Cybersecurity+%26+Network+Enthusiast+%F0%9F%94%90;CTF+Player+%F0%9F%9A%A9+%7C+Capture+The+Flag;Linux+%26+Systems+Tinkerer+%F0%9F%90%A7;Building+ANDS+%E2%80%94+Network+Detection+System+%F0%9F%9B%A1%EF%B8%8F;I+use+Arch+BTW+%F0%9F%A4%93)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Hacking GIF" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bTFnbzNkYzRkNDBsM3p4eHBub3VsMnhrNjJpN2RhbGp2eDVmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Cybersecurity GIF" width="340" src="https://media.giphy.com/media/LmN8OYiY4m0X85K0Zz/giphy.gif"/>
 
-### 👾 About Me
+### 👾 `$ whoami`
 
 ```bash
 ┌──(addis㉿arch)-[~/]
 └─$ whoami
 
   Name    : Addis Abrham
-  Role    : Cybersecurity Researcher & Developer
-  OS      : Arch Linux (btw)
-  Focus   : Network Security | Pentesting | Automation
+  Status  : Computer Science Student 🎓
+  OS      : Arch Linux (btw 🐧)
+  Focus   : Network Security | Systems Programming | Automation
   Project : ANDS — Anomaly-based Network Detection System
-  Status  : [ ■■■■■■■■░░ ] Breaking things legally
+  Motto   : Break it legally. Understand it. Secure it. 🛡️
 ```
 
-- 🔭 Building **[ANDS](https://github.com/addisabrham36-boop)** — an ML-powered network intrusion detection system
-- 🛡️ CTF player & security researcher — I break systems to understand them
-- 🐧 Daily-driving **Arch Linux** with Metasploit, Burp Suite & custom tooling
-- 🌍 Based in **Addis Ababa, Ethiopia**
-- 🌐 Portfolio: [abrham-addis-portfolio.netlify.app](https://abrham-addis-portfolio.netlify.app/)
+- 🎓 **CS Student** exploring low-level systems, networking & offensive/defensive security
+- 🛡️ Developing **ANDS** (Anomaly-based Network Detection System)
+- 🚩 Active **CTF Player** & security challenges enthusiast
+- 🐧 Daily-driving **Arch Linux** with custom offensive & dev setups
+- 📍 **Addis Ababa, Ethiopia**
+- 🌐 **[Portfolio Website](https://abrham-addis-portfolio.netlify.app/)**
 
 <br clear="right"/>
 
@@ -38,7 +39,7 @@
 
 <div align="center">
 
-**OS & Shell**
+**Systems & Shell**
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,86 +53,65 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Security Tooling**
+**Security & Networking Tools**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
 
-**DevOps & Infrastructure**
+**Development & Environment**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addisabrham36-boop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addisabrham36-boop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=addisabrham36-boop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=addisabrham36-boop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
+  <br/>
   <img src="https://streak-stats.demolab.com?user=addisabrham36-boop&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=addisabrham36-boop&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addisabrham36-boop&theme=tokyonight" />
 </div>
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Addis's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=addisabrham36-boop&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![ANDS](https://github-readme-stats.vercel.app/api/pin/?username=addisabrham36-boop&repo=ands&theme=tokyonight&hide_border=true)](https://github.com/addisabrham36-boop/ands)
-
-</div>
-
----
-
-## 🎯 Current Focus
+## 🎯 Student Life & Goals
 
 ```python
-class Addis:
+class Student:
     def __init__(self):
-        self.role     = "Cybersecurity Researcher"
-        self.os       = "Arch Linux"
-        self.current  = "ANDS — Network Intrusion Detection System"
-        self.learning = ["Advanced Exploit Dev", "Malware Analysis", "Red Teaming"]
-        self.tools    = ["Metasploit", "Burp Suite", "Wireshark", "nmap", "ffuf"]
-        self.ctf      = True  # Always competing
+        self.name     = "Addis Abrham"
+        self.status   = "Computer Science Student 📚"
+        self.focus    = ["Network Security", "Systems & Linux", "CTFs"]
+        self.building = "ANDS — Network Anomaly Detection System"
+        self.stack    = ["Python", "C", "Bash", "Burp Suite", "Wireshark"]
+        self.coffee   = float("inf")
 
-    def hack(self):
-        return "Break it. Understand it. Secure it. 🔐"
+    def daily_routine(self):
+        while True:
+            self.study_core_cs()
+            self.practice_ctfs()
+            self.build_open_source()
 ```
 
 ---
 
-## 📬 Connect
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -139,8 +119,10 @@ class Addis:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addisabrham36@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addisabrham36-boop)
 
+<br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=addisabrham36-boop&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:091428,100:0d1117&height=120&section=footer" width="100%"/>
