@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,100:091428&height=180&text=%E2%98%A0%EF%B8%8F%20SYSTEM%20SECURITY%20%E2%98%A0%EF%B8%8F&fontSize=38&fontColor=00ffcc&fontAlign=50&fontAlignY=45&stroke=00ffcc&strokeWidth=1&desc=ADDIS%20ABRHAM%20%E2%80%A2%20CS%20STUDENT%20%E2%80%A2%20LINUX%20%26%20NETWORK%20SECURITY&descSize=15&descAlign=50&descAlignY=70&descColor=8be9fd" width="100%"/>
+<img src="./assets/matrix_banner.gif" width="100%" height="220" style="object-fit: cover; max-height: 220px; border-radius: 6px;" alt="Matrix Cyber Rain" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&random=false&width=650&lines=%3E_CS+Student+%26+Cybersecurity+Enthusiast;%3E_Daily+Arch+Linux+User+%26+Scripting;%3E_Network+Penetration+Testing+%26+Auditing;%3E_Active+CTF+Competitor;%3E_Developing+ANDS+%E2%80%94+Anomaly+Detection+System)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=700&lines=%3E_Abrham+%7C+Cybersecurity+Student+%26+Self-Learner+%F0%9F%94%90;%3E_Network+Security+%26+Penetration+Testing;%3E_Arch+Linux+Enthusiast+%26+Bash%2FPython+Automation;%3E_Active+CTF+Competitor+%F0%9F%9A%A9;%3E_Developing+ANDS+%E2%80%94+Anomaly-based+Network+IDS+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,24 +15,24 @@
 ```bash
         .---.
        /     \
-      | () () |       USER     : addis (UID: 1000)
-       \  _  /        ROLE     : Computer Science Student
-        /   \         FOCUS    : Network Security & Systems Architecture
-       /|   |\        OS       : Arch Linux x86_64
-      (_|   |_)       PROJECT  : ANDS (Anomaly-based Network Detection System)
+      | () () |       NAME     : Abrham
+       \  _  /        STATUS   : Cybersecurity Student & Self-Learner 🛡️
+        /   \         FOCUS    : Network Security, Pentesting & Automation
+       /|   |\        OS       : Arch Linux x86_64 🐧
+      (_|   |_)       PROJECT  : ANDS — Anomaly-based Network Detection System
         "---"         MOTTO    : Break it legally. Understand it. Secure it.
 ```
 
-- 🎓 **Computer Science Student** — focused on operating systems, network protocols, and offensive/defensive security
-- 🛡️ **Network Security & IDS** — building **ANDS**, an ML-assisted anomaly-based intrusion detection engine
-- 🚩 **CTF Player** — solving challenges across web exploitation, forensics, reverse engineering, and network attacks
-- 🐧 **Linux Environment** — customized Arch Linux environment for auditing, traffic analysis, and tooling development
-- 🌐 **Portfolio**: [abrham-addis-portfolio.netlify.app](https://abrham-addis-portfolio.netlify.app/)
-- 📍 **Location**: Addis Ababa, Ethiopia
+- 🛡️ **Cybersecurity Student & Self-Learner** — passionate about network security, systems exploitation, and defense
+- 🔍 Building **ANDS** — an anomaly-based network intrusion detection system
+- 🚩 Active **CTF Competitor** — solving web, network, and reverse engineering challenges
+- 🐧 Daily-driving **Arch Linux** with custom security auditing and scripting tools
+- 📍 Based in **Addis Ababa, Ethiopia**
+- 🌐 Portfolio: **[abrham-addis-portfolio.netlify.app](https://abrham-addis-portfolio.netlify.app/)**
 
 ---
 
-## 🛠️ Tech Stack & Security Tooling
+## 🛠️ Security Arsenal & Tech Stack
 
 <div align="center">
 
@@ -43,7 +45,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Offensive & Defensive Security**
+**Offensive & Defensive Security Tools**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -74,45 +76,42 @@
   <img src="https://streak-stats.demolab.com?user=addisabrham36-boop&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=addisabrham36-boop&theme=tokyonight" />
-</div>
-
 ---
 
-## 🎯 Student Roadmap
+## 🎯 Cyber Roadmap & Routine
 
 ```python
-class Profile:
+class SecurityStudent:
     def __init__(self):
-        self.developer = "Addis Abrham"
-        self.status    = "CS Student 📚"
-        self.track     = "Cybersecurity & Systems Engineering"
-        self.ongoing   = "ANDS — Anomaly-based Network Detection System"
-        self.skills    = ["Vulnerability Assessment", "Packet Analysis", "Kernel & Shell"]
-        
-    def execute(self):
+        self.name     = "Abrham"
+        self.role     = "Cybersecurity Student & Self-Learner 🛡️"
+        self.os       = "Arch Linux (btw)"
+        self.focus    = ["Network Security", "Penetration Testing", "Malware Analysis"]
+        self.project  = "ANDS — Anomaly-based Network Detection System"
+        self.tools    = ["Wireshark", "Burp Suite", "Nmap", "Metasploit", "Python"]
+
+    def daily_routine(self):
         while True:
-            self.study_core_systems()
-            self.practice_ctfs()
+            self.study_network_protocols()
+            self.hunt_vulnerabilities()
+            self.solve_ctf_challenges()
             self.build_security_tools()
 ```
 
 ---
 
-## 📬 Contact & Links
+## 📬 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00ffcc)](https://abrham-addis-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00ff66)](https://abrham-addis-portfolio.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addisabrham36@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addisabrham36-boop)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=addisabrham36-boop&color=00ffcc&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=addisabrham36-boop&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:091428,100:050811&height=40&stroke=00ffcc&strokeWidth=1" width="100%"/>
+<img src="./assets/matrix.gif" width="100%" height="20" alt="divider" />
