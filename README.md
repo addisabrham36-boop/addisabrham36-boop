@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=720&lines=%3E_Abrham+%7C+Cybersecurity+Student+%26+Self-Learner+%F0%9F%94%90;%3E_Offensive+Pentesting+%26+Defensive+Operations;%3E_Arch+Linux+Power+User+%26+C%2B%2B%2FPython+Automation;%3E_Active+CTF+Competitor+%F0%9F%9A%A9;%3E_Developing+ANDS+%E2%80%94+Anomaly-based+Network+IDS+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=750&lines=%3E_Abrham+%7C+Cybersecurity+Student+%26+Self-Learner+%F0%9F%94%90;%3E_Vectra+—+High-Performance+Offline+CVE+%26+GTFOBins+Engine;%3E_Offensive+Pentesting+%26+Defensive+Operations;%3E_Arch+Linux+Power+User+%26+C%2B%2B%2FPython+Automation;%3E_Active+CTF+Competitor+%F0%9F%9A%A9;%3E_Developing+ANDS+Network+IDS+%26+Security+Tools)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,18 +17,34 @@
        /     \
       | () () |       NAME     : Abrham
        \  _  /        STATUS   : Cybersecurity Student & Self-Learner 🛡️
-        /   \         FOCUS    : Offensive Security, Defensive Monitoring & Network IDS
+        /   \         FOCUS    : Vulnerability Research, Offensive Security & Defensive Telemetry
        /|   |\        OS       : Arch Linux x86_64 🐧
-      (_|   |_)       PROJECT  : ANDS — Anomaly-based Network Detection System
+      (_|   |_)       PROJECTS : Vectra (CVE/GTFOBins Engine) & ANDS (Network IDS)
         "---"         MOTTO    : Break it legally. Understand it. Secure it.
 ```
 
+- ⚡ Building **[Vectra](https://github.com/addisabrham36-boop/vectra)** — High-Performance Offline CVE & GTFOBins Intelligence Search Engine
+- 🔍 Building **[ANDS](https://github.com/addisabrham36-boop/ands)** — Anomaly-based Network Intrusion Detection System
 - 🛡️ **Cybersecurity Student & Self-Learner** — exploring offensive operations, threat hunting, and defensive telemetry
-- 🔍 Building **ANDS** — an anomaly-based network intrusion detection system
 - 🚩 Active **CTF Competitor** — solving challenges across web exploitation, cryptography, network analysis, and binary exploitation
 - 🐧 Daily-driving **Arch Linux** with custom security auditing environments and automated tooling
 - 📍 Based in **Addis Ababa, Ethiopia**
 - 🌐 Portfolio: **[abrham-addis-portfolio.netlify.app](https://abrham-addis-portfolio.netlify.app/)**
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| ⚡ **Vectra** | High-performance offline CVE & GTFOBins intelligence search engine for penetration testers and CTF players | Python, Rich, Docker | [Repo](https://github.com/addisabrham36-boop/vectra) |
+| 🛡️ **ANDS** | Anomaly-based Network Intrusion Detection System for real-time traffic analysis and threat detection | C++, Python, Scapy | [Repo](https://github.com/addisabrham36-boop/ands) |
+| 🏰 **Bastion** | Automated security hardening and threat monitoring scripts for Linux systems | Bash, Python | [Repo](https://github.com/addisabrham36-boop/bastion) |
+| 📝 **Writeups** | Comprehensive CTF writeups, vulnerability analyses, and security research notes | Markdown | [Repo](https://github.com/addisabrham36-boop/writeups) |
+
+</div>
 
 ---
 
@@ -104,8 +120,11 @@ class SecurityStudent:
         self.name     = "Abrham"
         self.status   = "Cybersecurity Student & Self-Learner 🛡️"
         self.os       = "Arch Linux (btw)"
-        self.focus    = ["Offensive Pentesting", "Threat Detection", "Network IDS"]
-        self.project  = "ANDS — Anomaly-based Network Detection System"
+        self.focus    = ["Offensive Pentesting", "Vulnerability Research", "Threat Detection"]
+        self.projects = {
+            "Vectra": "High-Performance Offline CVE & GTFOBins Search Engine",
+            "ANDS":   "Anomaly-based Network Detection System"
+        }
         self.stack    = ["C++", "Python", "Bash", "Burp Suite", "Wireshark", "Metasploit"]
 
     def daily_routine(self):
