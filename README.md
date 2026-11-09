@@ -150,3 +150,4 @@ class SecurityStudent:
 ![Profile Views](https://komarev.com/ghpvc/?username=addisabrham36-boop&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="963f3c8e-a305-4f63-9400-744b50b5af3c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
