@@ -151,6 +151,6 @@ class SecurityStudent:
 
 <p align="center">
   <a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity" target="_blank">
-    <img src="https://images.credly.com/size/200x200/images/df695dbf-47c3-4ed6-8a07-1b07223b2cce/image.png" alt="Introduction to Cybersecurity Badge" />
+    <img src="https://images.credly.com/size/340x340/images/df695dbf-47c3-4ed6-8a07-1b07223b2cce/image.png" alt="Introduction to Cybersecurity Badge" width="140" />
   </a>
 </p>
