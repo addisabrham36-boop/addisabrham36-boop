@@ -137,6 +137,8 @@ class SecurityStudent:
 
 ---
 
+---
+
 ## 📬 Connect With Me
 
 <div align="center">
@@ -149,8 +151,11 @@ class SecurityStudent:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=addisabrham36-boop&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p align="center">
-  <a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/df695dbf-47c3-4ed6-8a07-1b07223b2cce/image.png" alt="Introduction to Cybersecurity Badge" width="140" />
-  </a>
-</p>
+<br/>
+<br/>
+
+<a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/df695dbf-47c3-4ed6-8a07-1b07223b2cce/image.png" alt="Introduction to Cybersecurity Badge" width="140" />
+</a>
+
+</div>
