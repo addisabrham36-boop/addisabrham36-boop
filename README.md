@@ -149,5 +149,8 @@ class SecurityStudent:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=addisabrham36-boop&color=00ff66&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="963f3c8e-a305-4f63-9400-744b50b5af3c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+  <a href="https://www.credly.com/org/cisco/badge/introduction-to-cybersecurity" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/df695dbf-47c3-4ed6-8a07-1b07223b2cce/image.png" alt="Introduction to Cybersecurity Badge" />
+  </a>
+</p>
